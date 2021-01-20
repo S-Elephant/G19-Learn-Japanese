@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <Keys>
+    <Key romaji="mya" alsoReverse="true">
+      <StaticChoice>rya</StaticChoice>
+      <StaticChoice>gya</StaticChoice>
+    </Key>
+    <Key romaji="dya" alsoReverse="true">
+      <StaticChoice>zya</StaticChoice>
+    </Key>
+
+    <Key romaji="myu" alsoReverse="true">
+      <StaticChoice>gyu</StaticChoice>
+    </Key>
+    <Key romaji="dyu" alsoReverse="true">
+      <StaticChoice>ryu</StaticChoice>
+      <StaticChoice>zyu</StaticChoice>
+    </Key>
+
+    <Key romaji="myo" alsoReverse="true">
+      <StaticChoice>zyo</StaticChoice>
+      <StaticChoice>gyo</StaticChoice>
+    </Key>
+    <Key romaji="dyo" alsoReverse="true">
+      <StaticChoice>ryo</StaticChoice>
+    </Key>
+
+    <Key romaji="byo" alsoReverse="true">
+      <StaticChoice>byu</StaticChoice>
+      <StaticChoice>bya</StaticChoice>
+    </Key>
+
+    <Key romaji="pyo" alsoReverse="true">
+      <StaticChoice>pyu</StaticChoice>
+      <StaticChoice>pya</StaticChoice>
+    </Key>
+
+    <Key romaji="go" alsoReverse="true">
+      <StaticChoice>ge</StaticChoice>
+      <StaticChoice>gu</StaticChoice>
+    </Key>
+    <Key romaji="gi" alsoReverse="true">
+      <StaticChoice>ga</StaticChoice>
+    </Key>
+
+    <Key romaji="zo" alsoReverse="true">
+      <StaticChoice>za</StaticChoice>
+    </Key>
+    <Key romaji="zi" alsoReverse="true">
+      <StaticChoice>ze</StaticChoice>
+      <StaticChoice>zu</StaticChoice>
+    </Key>
+
+    <Key romaji="do" alsoReverse="true">
+      <StaticChoice>de</StaticChoice>
+    </Key>    
+    <Key romaji="du" alsoReverse="true">
+      <StaticChoice>di</StaticChoice>
+      <StaticChoice>da</StaticChoice>
+    </Key>
+
+    <Key romaji="bo" alsoReverse="true">
+      <StaticChoice>be</StaticChoice>
+      <StaticChoice>bu</StaticChoice>
+    </Key>
+    <Key romaji="bi" alsoReverse="true">
+      <StaticChoice>ba</StaticChoice>
+    </Key>
+
+    <Key romaji="po" alsoReverse="true">
+      <StaticChoice>pe</StaticChoice>
+      <StaticChoice>pu</StaticChoice>
+    </Key>
+    <Key romaji="pi" alsoReverse="true">
+      <StaticChoice>pa</StaticChoice>
+    </Key>
+
+    <Key romaji="kyo" alsoReverse="true">
+      <StaticChoice>kyu</StaticChoice>
+      <StaticChoice>kya</StaticChoice>
+    </Key>
+
+    <Key romaji="sho" alsoReverse="true">
+      <StaticChoice>shu</StaticChoice>
+      <StaticChoice>sha</StaticChoice>
+    </Key>
+
+    <Key romaji="cho" alsoReverse="true">
+      <StaticChoice>chu</StaticChoice>
+      <StaticChoice>cha</StaticChoice>
+    </Key>
+
+    <Key romaji="nyo" alsoReverse="true">
+      <StaticChoice>nyu</StaticChoice>
+      <StaticChoice>nya</StaticChoice>
+    </Key>
+
+    <Key romaji="hyo" alsoReverse="true">
+      <StaticChoice>hyu</StaticChoice>
+      <StaticChoice>hya</StaticChoice>
+    </Key>
+
+    <Key romaji="wo" alsoReverse="true">
+      <StaticChoice>we</StaticChoice>
+    </Key>
+  </Keys>  
+</root>

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <Keys>
+    <Key romaji="ra" alsoReverse="true">
+      <StaticChoice>chi</StaticChoice>
+      <StaticChoice>sa</StaticChoice>
+    </Key>   
+    <Key romaji="i" alsoReverse="true">
+      <StaticChoice>ri</StaticChoice>
+    </Key>
+    <Key romaji="ru" alsoReverse="true">
+      <StaticChoice>ro</StaticChoice>
+    </Key>
+    <Key romaji="te" alsoReverse="true">
+      <StaticChoice>se</StaticChoice>
+    </Key>
+    <Key romaji="a" alsoReverse="true">
+      <StaticChoice>o</StaticChoice>
+    </Key>
+    <Key romaji="shi">
+      <StaticChoice>chi</StaticChoice>
+    </Key>
+    <Key romaji="mi">
+      <StaticChoice>ha</StaticChoice>
+    </Key>
+    <Key romaji="ne" alsoReverse="true">
+      <StaticChoice>wa</StaticChoice>
+    </Key>
+    <Key romaji="pu" alsoReverse="true">
+      <StaticChoice>bu</StaticChoice>
+    </Key>
+    <Key romaji="nu" alsoReverse="true">
+      <StaticChoice>me</StaticChoice>
+    </Key>
+    
+    <Key romaji="na">
+      <StaticChoice>ta</StaticChoice>
+      <StaticChoice>re</StaticChoice>
+    </Key>
+    <Key romaji="re">
+      <StaticChoice>na</StaticChoice>
+    </Key>
+  </Keys>  
+</root>
